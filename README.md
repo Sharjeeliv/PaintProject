@@ -1,2 +1,2 @@
 # PaintProject
-A simple paint program developed for a school project.
+A simple paint program developed using python3, pygame and tkinter for a final school project
